@@ -9,5 +9,8 @@
 		"name": "cetejs",
 		"email": "cetejs@gmail.com",
 		"url": "https://github.com/cetejs"
+	},
+	"dependencies": {
+    	"com.unity.test-framework": "1.4.5"
 	}
 }
